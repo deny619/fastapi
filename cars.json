@@ -1,0 +1,53 @@
+[
+    {
+        "size": "s",
+        "fuel": "petrol",
+        "doors": 3,
+        "transmission": "manual",
+        "id": 1,
+        "trip": [
+            {
+                "start": 0,
+                "end": 5,
+                "description": "a to b",
+                "id": 4
+            },
+            {
+                "start": 5,
+                "end": 10,
+                "description": "b to c",
+                "id": 4
+            }
+        ]
+    },
+    {
+        "size": "s",
+        "fuel": "petrol",
+        "doors": 4,
+        "transmission": "auto",
+        "id": 3,
+        "trip": [
+            {
+                "start": 5,
+                "end": 10,
+                "description": "b to c",
+                "id": 4
+            }
+        ]
+    },
+    {
+        "size": "s",
+        "fuel": "electric",
+        "doors": 3,
+        "transmission": "auto",
+        "id": 4,
+        "trip": [
+            {
+                "start": 5,
+                "end": 10,
+                "description": "b to c",
+                "id": 4
+            }
+        ]
+    }
+]
